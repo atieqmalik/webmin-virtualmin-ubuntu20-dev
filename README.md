@@ -9,7 +9,7 @@ At the moment, Webmin 1.941 is installed by default, which doesn't contain impor
 
 ## Screenshots
 ![](https://github.com/iliarostovtsev/webmin-virtualmin-ubuntu20-dev/blob/master/screenshots/vm-u20-post-install.png)
-
+![](https://github.com/iliarostovtsev/webmin-virtualmin-ubuntu20-dev/blob/master/screenshots/vm-u20-config-check.png)
 
 ## License
 Released under the [MIT License](https://github.com/iliarostovtsev/webmin-virtualmin-ubuntu20-dev/blob/master/LICENSE).
